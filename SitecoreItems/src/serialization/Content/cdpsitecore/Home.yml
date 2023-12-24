@@ -1,0 +1,78 @@
+﻿---
+ID: "1147e60a-6abc-4a8f-af14-833361b559c0"
+Parent: "86d13072-616b-40d6-b16e-477709124c93"
+Template: "dc6d8f3f-2b6a-48ad-8535-b78bc31306cf"
+Path: /sitecore/content/cdpsitecore/Home
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{75954AE7-F8AA-458E-A109-D61E9D76A622}">
+        <r
+          id="{48F0FB59-9077-4425-A05B-5C7CA2512792}"
+          ph="cdp-main"
+          uid="{E90CB47A-DBBE-4AD9-8F47-6AF1650FB972}" />
+        <r
+          id="{530E13A2-C150-45D9-BC4A-DA269AA5CB48}"
+          ph="cdp-main"
+          uid="{C3738633-2EE7-46A3-8FB0-F3BDFE5EDB25}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Home Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221219T082702Z
+    - ID: "450cfc60-6408-45c6-8cb0-2c38ceafd5a8"
+      Hint: BriefInfo
+      Value: Sitecore CDP enables you to query and build custom segments at scale and speed using any attributes that your organization passes to Sitecore CDP. You can interrogate all your organization’s data using embedded analytics in the segment editor.
+    - ID: "51c62ac0-ed76-44cc-b23b-349e4e2b8129"
+      Hint: ContentMainImage
+      Value: |
+        <image mediaid="{F17E12E4-C262-4F18-9E37-A7A340DBC6D8}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daf08062-bb4e-47c5-8e60-bbb59b3395ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c9706ac7-9363-4040-9743-aa59938d092f"
+      Hint: Heading
+      Value: Home Page
+    - ID: "cdec7c0d-816e-49eb-99b7-2043bb65f05a"
+      Hint: MainContent
+      Value: |
+        <h2>What is a Customer Data Platform?</h2>
+        <p>A Customer Data Platform (CDP) is a piece of software that combines data from multiple tools to create a single centralized customer database containing data on all touch points and interactions with your product or service. That database can then be segmented in a nearly endless number of ways to create more personalized marketing campaigns.</p>
+        <h3>What a CDP Does?</h3>
+        <p>The best way to explain this is by example. Say a company is trying to get a better understanding of their customers. Their CDP would be used to collect data from touch points like Facebook, the company&rsquo;s website, email, and any other place a customer might interact with the company. The CDP will collect all of those data points, consolidate them into an easily understandable unified customer profile, and then make that profile usable to other systems that might need it &mdash; like the Facebook ads platform.</p>
+        <p>That process allows the company to use segmentation to better understand their audience and create more personalized marketing campaigns. The company could easily create an advertising audience based on everyone who has visited a specific page on their website and also the company&rsquo;s live chat feature. Or, they could quickly segment and view data on site visitors who&rsquo;ve abandoned their carts.</p>
+        <p>That&rsquo;s one of the ways Drift is able to create personalized marketing campaigns. They use Segment&rsquo;s Personas product to help with three tasks:</p>
+        <ul>
+            <li>"Identity resolution" - Unifies user history across devices and channels into a single customer view for each user.</li>
+            <li>"Trait and audience building" - Synthesizes data into traits and audiences for each customer, including which users have displayed intent and how that integrates into overall account activity.</li>
+            <li>"Activation" - Pushes their user- and account-level audiences to a number of tools in their stack to orchestrate personalized, real-time outbound messaging.</li>
+        </ul>
+        <p>As we will see, the CDP has been evolving for some time, refining and improving its processes to meet (and exceed) the ever-changing expectations of customers.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231224T103845Z

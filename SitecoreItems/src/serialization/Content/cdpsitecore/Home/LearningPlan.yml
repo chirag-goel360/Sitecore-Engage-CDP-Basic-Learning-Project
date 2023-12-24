@@ -1,0 +1,53 @@
+﻿---
+ID: "b1a5cbaf-99e0-40c8-8666-908e7298c3af"
+Parent: "1147e60a-6abc-4a8f-af14-833361b559c0"
+Template: "4b4af3f4-87df-478d-bbd9-2bc715c86ecd"
+Path: /sitecore/content/cdpsitecore/Home/LearningPlan
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Learning Plan
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221220T103327Z
+    - ID: "450cfc60-6408-45c6-8cb0-2c38ceafd5a8"
+      Hint: BriefInfo
+      Value: |
+        If your company is a partner send an email to "PartnerEnablement@sitecore.com" requesting access for a Sitecore CDP sandbox , you should receive an email with access to "https://app.boxever.com".
+        
+        Similar to Google Analytics, Sitecore CDP uses a JavaScript library to integrate CDP features on a website, You will need to embed a JavaScript on your website using Google Tag Manager (GTM) or Server Side Scripting.
+    - ID: "51c62ac0-ed76-44cc-b23b-349e4e2b8129"
+      Hint: ContentMainImage
+      Value: |
+        <image mediaid="{F17E12E4-C262-4F18-9E37-A7A340DBC6D8}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79dfbc63-3bf6-4068-8136-5c85cc526755"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c9706ac7-9363-4040-9743-aa59938d092f"
+      Hint: Heading
+      Value: Learning Plan
+    - ID: "cdec7c0d-816e-49eb-99b7-2043bb65f05a"
+      Hint: MainContent
+      Value: |
+        <p>Sitecore CDP &amp; Sitecore Personalize are two different products but part of the same platform, Login to one place to access both . Depending on the client&rsquo;s requirements they can opt to have either product or both. Ideally both the products are used in conjunction with each other most of the time.</p>
+        <p>Major Components of Sitecore CDP &amp; Personalize</p>
+        <ul>
+            <li>"Customer Data" &mdash; Overview of customer data collected, Guests , Segments and Subscription lists.</li>
+            <li>"Experimentation" &mdash; Run AB Tests on your website. An experiment is essentially an A/B test of two or more variants.</li>
+            <li>"Decisioning" &mdash; Create decision models to recommend offers dynamically, deliver personalized content and offers through business rules.</li>
+            <li>"Experiences" &mdash; Enables you to add Experiences to your website and monitor performance.</li>
+            <li>"Library" &mdash; Reusable Marketer-friendly Web Templates to give marketers a headstart.</li>
+            <li>"Connections" &mdash; Create and manage connections to third-party systems. These can be used for sending emails or ingesting data.</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231224T110216Z
